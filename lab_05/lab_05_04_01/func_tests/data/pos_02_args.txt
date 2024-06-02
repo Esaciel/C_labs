@@ -1,0 +1,1 @@
+fb ./func_tests/data/pos_02_in.bin ./func_tests/data/pos_02_out.bin Ivan

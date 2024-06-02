@@ -1,0 +1,15 @@
+Baygrain
+Alan
+1 2 3 4
+Bakulin
+Dmitriy
+5 6 7 8
+Ataev
+Konstantin
+1 2 1 2
+Lylov
+Denis
+4 3 8 8
+Veselov
+Mikhail
+0 0 0 0
